@@ -1,6 +1,6 @@
-package service;
+package com.pluralsight.service;
 
-import model.Customer;
+import com.pluralsight.model.Customer;
 
 import java.util.List;
 

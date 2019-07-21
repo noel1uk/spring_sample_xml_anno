@@ -1,6 +1,6 @@
-package repository;
+package com.pluralsight.repository;
 
-import model.Customer;
+import com.pluralsight.model.Customer;
 
 import java.util.List;
 
